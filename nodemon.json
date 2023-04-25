@@ -1,0 +1,6 @@
+{
+    "watch": ["src"],
+    "ext": "js",
+    "exec": "babel-node --extensions \".js\" src/server"
+  }
+  
